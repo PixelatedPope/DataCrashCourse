@@ -1,0 +1,1 @@
+sprite_index = choose(sprItem67, sprItem00, sprItem24, sprItem47, sprItem64);
